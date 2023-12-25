@@ -1,0 +1,27 @@
+.strip{
+    min-height: 450px;
+    background: gray;
+    background-position: center;
+    background-size:cover
+}
+
+.strip h2{
+    color: rgba(8, 8, 8, 0.7);
+background: #f70707;
+text-shadow: 0 0 15px rgba(255,255,255,.5), 0 0 10px rgba(255,255,255,.5)
+}
+
+.inputMove {
+    min-height: 40px;
+    background: rgb(25, 24, 24);
+}
+
+.vodList{
+    
+    min-height: 400px;
+}
+
+.footer{
+    min-height: 50px;
+    background: gray;
+}
